@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, requests, csv, datetime, time
 from bs4 import BeautifulSoup as BS
 
